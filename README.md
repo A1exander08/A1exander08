@@ -1,5 +1,5 @@
 - 👋 Hey, It's me, Alex.
-- 🌱 I’m improving every single day in Web Development and I'm very obsessed on making a better version of myself.
+- 🌱 I’m constantly improving in Web Development and I'm very obsessed on building a better version of myself.
 - 💞️ I’m looking to collaborate with all of you.
 - 📫 How to reach me: 
 - On my website: its-alex.com
