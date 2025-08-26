@@ -1,6 +1,2 @@
-- 👋 Hey, It's me, Alex.
-- 🌱 I’m constantly improving in Web Development and I'm very obsessed on building a better version of myself.
-- 💞️ I’m looking to collaborate with all of you.
-- 📫 How to reach me: 
-- On my website: its-alex.com
-- Or send me an E-Mail: alex.beery08@gmail.com
+- 👋 Hey, It's Alex. I'm building web apps that satisfy overlooked niches in the italian market.
+- 📫 How to contact me: alex.beery08@gmail.com
